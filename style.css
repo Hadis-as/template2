@@ -1,0 +1,312 @@
+                                                                                            * {
+                                                                                                margin: 0;
+                                                                                                padding: 0;
+                                                                                                box-sizing: border-box
+                                                                                            }
+                                                                                            
+                                                                                            .image img {
+                                                                                                width: 65%;
+                                                                                                height: 70vh;
+                                                                                                display: block;
+                                                                                                margin: 0 auto;
+                                                                                                margin-bottom: 5%
+                                                                                            }
+                                                                                            
+                                                                                            #welcome h1 {
+                                                                                                text-align: center;
+                                                                                                text-transform: capitalize
+                                                                                            }
+                                                                                            
+                                                                                            #welcome p {
+                                                                                                text-align: center;
+                                                                                                margin: 1% 30%;
+                                                                                                color: rgba(54, 52, 52, 0.712)
+                                                                                            }
+                                                                                            
+                                                                                            #welcome {
+                                                                                                margin-bottom: 5%
+                                                                                            }
+                                                                                            
+                                                                                            .options {
+                                                                                                margin-right: 20%;
+                                                                                                margin-left: 15%;
+                                                                                                width: 65%;
+                                                                                            }
+                                                                                            
+                                                                                            .options>div {
+                                                                                                width: 22%;
+                                                                                                margin: 5% 1%;
+                                                                                                float: right;
+                                                                                                height: 31vh;
+                                                                                                border: solid 1px rgba(127, 231, 8, 0.918)
+                                                                                            }
+                                                                                            
+                                                                                            .item img {
+                                                                                                display: block;
+                                                                                                margin: 8% 45%;
+                                                                                                text-align: center
+                                                                                            }
+                                                                                            
+                                                                                            .item h3 {
+                                                                                                text-align: center;
+                                                                                                text-transform: capitalize;
+                                                                                                color: red;
+                                                                                                margin-bottom: 8%
+                                                                                            }
+                                                                                            
+                                                                                            .item p {
+                                                                                                text-align: center;
+                                                                                                margin: 0 2%;
+                                                                                                color: rgba(54, 52, 52, 0.712)
+                                                                                            }
+                                                                                            
+                                                                                            .options-2 {
+                                                                                                width: 65%;
+                                                                                                margin-right: 20%;
+                                                                                                margin-left: 15%;
+                                                                                                margin-top: 30%;
+                                                                                                margin-bottom: 20%
+                                                                                            }
+                                                                                            
+                                                                                            .options-2 h1 {
+                                                                                                text-align: center
+                                                                                            }
+                                                                                            
+                                                                                            .options-2>div {
+                                                                                                width: 22%;
+                                                                                                margin: 3% 1%;
+                                                                                                float: right;
+                                                                                                height: 21vh;
+                                                                                                border: solid 1px rgba(127, 231, 8, 0.918)
+                                                                                            }
+                                                                                            
+                                                                                            .options-2 .item h3 {
+                                                                                                color: rgba(54, 52, 52, 0.712)
+                                                                                            }
+                                                                                            
+                                                                                            .options-2 .item p {
+                                                                                                color: rgba(127, 231, 8, 0.918);
+                                                                                                font-size: 30px
+                                                                                            }
+                                                                                            
+                                                                                            .image-2 {
+                                                                                                background: url("desktop.jpg") no-repeat scroll;
+                                                                                                background-position: center;
+                                                                                                background-size: cover;
+                                                                                                width: 70%;
+                                                                                                height: 70vh;
+                                                                                                display: block;
+                                                                                                margin: 0 auto;
+                                                                                                margin-bottom: 5%;
+                                                                                                position: relative;
+                                                                                            }
+                                                                                            
+                                                                                            .image-2 h1 {
+                                                                                                color: white;
+                                                                                                position: absolute;
+                                                                                                top: 50%;
+                                                                                                left: 20%;
+                                                                                                font-size: 30px
+                                                                                            }
+                                                                                            
+                                                                                            .heading {
+                                                                                                background-color: white;
+                                                                                                position: absolute;
+                                                                                                width: 100%;
+                                                                                                margin: 0 5%;
+                                                                                                top: 218%
+                                                                                            }
+                                                                                            
+                                                                                            .logo {
+                                                                                                float: left;
+                                                                                            }
+                                                                                            
+                                                                                            .logo img {
+                                                                                                width: 60%;
+                                                                                                height: 40%
+                                                                                            }
+                                                                                            
+                                                                                            .menu ul li {
+                                                                                                display: inline-block;
+                                                                                                margin: 6% 0;
+                                                                                            }
+                                                                                            
+                                                                                            .menu {
+                                                                                                float: right;
+                                                                                                margin-right: 80px
+                                                                                            }
+                                                                                            
+                                                                                            .menu ul li a {
+                                                                                                text-decoration: none;
+                                                                                                color: red;
+                                                                                                padding: 20px 10px;
+                                                                                                text-transform: capitalize;
+                                                                                                font-weight: bold;
+                                                                                                font-size: 15px
+                                                                                            }
+                                                                                            
+                                                                                            .content-1 {
+                                                                                                margin: 0 20%;
+                                                                                                width: 70%;
+                                                                                                position: relative;
+                                                                                            }
+                                                                                            
+                                                                                            .content-1>div {
+                                                                                                width: 22%;
+                                                                                                height: 17vh;
+                                                                                                float: left;
+                                                                                                margin: 3% 1%
+                                                                                            }
+                                                                                            
+                                                                                            .content-1>div h1 {
+                                                                                                color: rgb(59, 55, 55);
+                                                                                                text-align: center;
+                                                                                                margin-left: -50%;
+                                                                                                margin-top: 3%;
+                                                                                                margin-bottom: 3%
+                                                                                            }
+                                                                                            
+                                                                                            .content-1>div p {
+                                                                                                color: rgb(59, 55, 55);
+                                                                                                text-align: center;
+                                                                                                margin-left: -20%;
+                                                                                                margin-right: 20%
+                                                                                            }
+                                                                                            
+                                                                                            .button {
+                                                                                                padding: 4% 10%;
+                                                                                                border: 1px solid rgba(127, 231, 8, 0.918);
+                                                                                                margin: 10% 0
+                                                                                            }
+                                                                                            
+                                                                                            .content-3 {
+                                                                                                margin-top: 40%;
+                                                                                                margin-bottom: 30%;
+                                                                                                margin-right: 10%;
+                                                                                                margin-left: 10%
+                                                                                            }
+                                                                                            
+                                                                                            .content-3 h1 {
+                                                                                                text-align: center;
+                                                                                                margin-bottom: 9%
+                                                                                            }
+                                                                                            
+                                                                                            .sec-1 {
+                                                                                                width: 50%;
+                                                                                                float: left;
+                                                                                            }
+                                                                                            
+                                                                                            .content-3 .sec-1 p {
+                                                                                                color: red;
+                                                                                                font-size: 25px;
+                                                                                                margin-top: 20;
+                                                                                                margin-bottom: 3%;
+                                                                                                font-weight: bold;
+                                                                                                color: rgb(59, 55, 55);
+                                                                                            }
+                                                                                            
+                                                                                            .content-4 {
+                                                                                                width: 70%;
+                                                                                                margin: 15% auto;
+                                                                                                position: relative;
+                                                                                            }
+                                                                                            
+                                                                                            .content-4 .part1 {
+                                                                                                width: 50%;
+                                                                                                background-color: rgba(127, 231, 8, 0.918);
+                                                                                                height: 58vh;
+                                                                                                float: left;
+                                                                                            }
+                                                                                            
+                                                                                            .part1 p {
+                                                                                                color: white;
+                                                                                                font-size: 50px;
+                                                                                                position: absolute;
+                                                                                                top: 10%;
+                                                                                                left: 5%
+                                                                                            }
+                                                                                            
+                                                                                            .btn {
+                                                                                                position: absolute;
+                                                                                                top: 92%;
+                                                                                                text-align: left;
+                                                                                                left: 5%;
+                                                                                                padding: 5px 10px
+                                                                                            }
+                                                                                            
+                                                                                            .content-4 .part2 img {
+                                                                                                width: 45%;
+                                                                                                height: 58vh;
+                                                                                            }
+                                                                                            
+                                                                                            .content-5 {
+                                                                                                width: 70%;
+                                                                                                margin: 20% auto
+                                                                                            }
+                                                                                            
+                                                                                            .content-5 h1 {
+                                                                                                text-transform: capitalize;
+                                                                                                text-align: center;
+                                                                                                margin-bottom: 5%
+                                                                                            }
+                                                                                            
+                                                                                            .content-5>div {
+                                                                                                width: 22%;
+                                                                                                height: 17vh;
+                                                                                                float: left;
+                                                                                                margin: 3% 1.5%
+                                                                                            }
+                                                                                            
+                                                                                            .content-5 div p {
+                                                                                                font-size: 30px;
+                                                                                                color: rgb(59, 55, 55);
+                                                                                                text-transform: capitalize
+                                                                                            }
+                                                                                            
+                                                                                            .content-5>div p:nth-last-of-type() {
+                                                                                                margin-bottom: 5%
+                                                                                            }
+                                                                                            
+                                                                                            .content-5 div span {
+                                                                                                font-size: 15px;
+                                                                                                /* margin: 30% 35% */
+                                                                                            }
+                                                                                            
+                                                                                            .content-5 div p:last-of-type {
+                                                                                                margin-bottom: 3%
+                                                                                            }
+                                                                                            
+                                                                                            footer {
+                                                                                                width: 70%;
+                                                                                                height: 55vh;
+                                                                                                background-color: rgb(59, 55, 55);
+                                                                                                color: rgb(230, 223, 223);
+                                                                                                margin: 0 auto;
+                                                                                            }
+                                                                                            
+                                                                                            .col img {
+                                                                                                width: 80%;
+                                                                                                height: 30%
+                                                                                            }
+                                                                                            
+                                                                                            .col h2 {
+                                                                                                margin: 5%;
+                                                                                                text-transform: capitalize
+                                                                                            }
+                                                                                            
+                                                                                            .col p {
+                                                                                                margin: 6%;
+                                                                                                line-height: 20px;
+                                                                                                font-size: 15px
+                                                                                            }
+                                                                                            
+                                                                                            footer div {
+                                                                                                width: 20%;
+                                                                                                margin: 5% 1%;
+                                                                                                float: left
+                                                                                            }
+                                                                                            
+                                                                                            footer div p {
+                                                                                                text-transform: capitalize;
+                                                                                                margin-left: -120%
+                                                                                            }
